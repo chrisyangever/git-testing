@@ -1,3 +1,3 @@
 export const foo = () => {
-  console.log('update foo again');
+  console.log('update foo again again');
 }
